@@ -1,2 +1,2 @@
-# todo-sh
-simple todo with shell script
+# to-do list shell script
+to-do list with sh
